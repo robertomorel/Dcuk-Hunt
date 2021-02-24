@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/robertomorel/assets/master/unity.jpeg">
 
-# Adventure Felpudo - Game
+# Dcuk Hunt - Game
 This is a game project developed using Unity 3D engine and c# as script language. 
 
 Download the last version on Unity Hub [here](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe).
